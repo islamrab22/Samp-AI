@@ -108,7 +108,11 @@ The agent thinks, decides, executes, and reports automatically across 20 steps c
 | GPU | NVIDIA RTX 2050 |
 
 ---
-
+![Banner](Banner.png)
+![Code Analysis](scan.png)
+![OWASP](OWASP.png)
+![Brute Force](Findings.jpg)
+![Summary](Summary.png)
 ---
 
 ## Requirements
