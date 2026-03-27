@@ -1,11 +1,9 @@
-```
- ____                          _   ___
+ ____                          _    ___
 / ___|  __ _ _ __ ___  _ __   / \  |_ _|
 \___ \ / _` | '_ ` _ \| '_   / _ \  | |
  ___) | (_| | | | | | | |_) / ___ \ | |
 |____/ \__,_|_| |_| |_| .__/_/   \_\___|
-                       |_|
-```
+                      |_|
 
 # Samp AI — Autonomous Vulnerability Scanner
 ### v4.4 | Powered by Llama 3 8B (Local, Offline)
@@ -108,11 +106,19 @@ The agent thinks, decides, executes, and reports automatically across 20 steps c
 | GPU | NVIDIA RTX 2050 |
 
 ---
+
+## Screenshots
+
 ![Banner](Banner.png)
+
 ![Code Analysis](scan.png)
-![OWASP](OWASP.png)
+
+![OWASP](OWASP .png)
+
 ![Brute Force](Findings.jpg)
+
 ![Summary](Summary.png)
+
 ---
 
 ## Requirements
@@ -137,11 +143,11 @@ python3 chat_v4.py
 ```
 
 Commands during scan:
-- `y` — run command
-- `n` — skip
-- `e` — edit command manually
-- `a` — auto mode (runs all remaining steps)
-- `q` — quit
+- y — run command
+- n — skip
+- e — edit command manually
+- a — auto mode (runs all remaining steps)
+- q — quit
 
 ---
 
@@ -176,8 +182,8 @@ The developer assumes no responsibility for misuse of this tool.
 ## Contact
 
 **Islam Rababah**
-- LinkedIn: [https://www.linkedin.com/in/islam-rababah]
-- Email: [islamrababa@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/islam-rababah
+- Email: islamrababa@gmail.com
 
 ---
 
