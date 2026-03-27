@@ -1,10 +1,3 @@
- ____                          _    ___
-/ ___|  __ _ _ __ ___  _ __   / \  |_ _|
-\___ \ / _` | '_ ` _ \| '_   / _ \  | |
- ___) | (_| | | | | | | |_) / ___ \ | |
-|____/ \__,_|_| |_| |_| .__/_/   \_\___|
-                      |_|
-
 # Samp AI — Autonomous Vulnerability Scanner
 ### v4.4 | Powered by Llama 3 8B (Local, Offline)
 
