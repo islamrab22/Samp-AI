@@ -109,23 +109,6 @@ The agent thinks, decides, executes, and reports automatically across 20 steps c
 
 ---
 
-## Screenshots
-
-### Banner and Legal Notice
-![Banner](screenshots/banner.png)
-
-### Source Code Analysis
-![Code Analysis](screenshots/code_analysis.png)
-
-### OWASP Top 10 Testing
-![OWASP](screenshots/owasp.png)
-
-### Login Detection and Brute Force
-![Brute Force](screenshots/bruteforce.png)
-
-### Vulnerability Summary
-![Summary](screenshots/summary.png)
-
 ---
 
 ## Requirements
