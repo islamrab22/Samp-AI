@@ -113,7 +113,7 @@ The agent thinks, decides, executes, and reports automatically across 20 steps c
 
 ![Code Analysis](scan.png)
 
-![OWASP](OWASP .png)
+![OWASP](OWASP.png)
 
 ![Brute Force](Findings.jpg)
 
